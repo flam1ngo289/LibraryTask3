@@ -1,0 +1,4 @@
+C:/Users/Кристина/Desktop/VS/LeaverCMake/out/build/x64-Debug/CMakeFiles/LeaverDynamicLibrary.dir
+C:/Users/Кристина/Desktop/VS/LeaverCMake/out/build/x64-Debug/CMakeFiles/LeaverExe.dir
+C:/Users/Кристина/Desktop/VS/LeaverCMake/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Кристина/Desktop/VS/LeaverCMake/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

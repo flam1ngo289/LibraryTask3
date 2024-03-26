@@ -1,0 +1,5 @@
+# ninja log v5
+1	437	7331825817610998	CMakeFiles/LeaverDynamicLibrary.dir/DynamicLeaver.cpp.obj	78585ccb503fea32
+437	625	7331825817610998	LeaverDynamicLibrary.dll	1cc3886bca8537de
+437	625	7331825817610998	LeaverDynamicLibrary.lib	1cc3886bca8537de
+7	774	7331825820986918	CMakeFiles/LeaverExe.dir/LeaverApp.cpp.obj	a8f03e46df88f085
