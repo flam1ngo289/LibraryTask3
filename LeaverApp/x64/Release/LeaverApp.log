@@ -1,0 +1,2 @@
+﻿  LeaverApp.cpp
+LINK : fatal error LNK1181: не удается открыть входной файл "C:\Users\Кристина\Desktop\VS\LeaverLibraryDynamic\x64\Release\LeaverLibraryDynamic.lib"
