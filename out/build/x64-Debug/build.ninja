@@ -67,11 +67,11 @@ build CMakeFiles\LeaverDynamicLibrary.dir\DynamicLeaver.cpp.obj: CXX_COMPILER__L
 
 build LeaverDynamicLibrary.dll LeaverDynamicLibrary.lib: CXX_SHARED_LIBRARY_LINKER__LeaverDynamicLibrary_Debug CMakeFiles\LeaverDynamicLibrary.dir\DynamicLeaver.cpp.obj
   LANGUAGE_COMPILE_FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd
-  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL  /DEF:CMakeFiles\LeaverDynamicLibrary.dir\.\exports.def
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   OBJECT_DIR = CMakeFiles\LeaverDynamicLibrary.dir
   POST_BUILD = cd .
-  PRE_LINK = cd .
+  PRE_LINK = cmd.exe /C ""C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E __create_def C:\Users\Кристина\Desktop\VS\LeaverCMake\out\build\x64-Debug\CMakeFiles\LeaverDynamicLibrary.dir\.\exports.def C:\Users\Кристина\Desktop\VS\LeaverCMake\out\build\x64-Debug\CMakeFiles\LeaverDynamicLibrary.dir\.\exports.def.objs && cd C:\Users\Кристина\Desktop\VS\LeaverCMake\out\build\x64-Debug"
   RESTAT = 1
   TARGET_COMPILE_PDB = CMakeFiles\LeaverDynamicLibrary.dir\
   TARGET_FILE = LeaverDynamicLibrary.dll

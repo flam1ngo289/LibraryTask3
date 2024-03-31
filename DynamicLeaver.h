@@ -8,5 +8,5 @@
 
 class Leaver {
 public:
-	std::string leave(std::string& input);
+	LEAVERLIBRARY_API std::string leave(std::string& input);
 };
