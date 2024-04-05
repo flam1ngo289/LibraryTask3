@@ -3,5 +3,10 @@
 9	155	7335891059356037	CMakeFiles/LeaverDynamicLibrary.dir/DynamicLeaver.cpp.obj	78585ccb503fea32
 8	148	7335894915767262	LeaverDynamicLibrary.lib	9cc6599d65b0ddcc
 6	515	7335887857902380	CMakeFiles/LeaverExe.dir/LeaverApp.cpp.obj	a8f03e46df88f085
-7	117	7335901732018252	build.ninja	759232123138fdcc
+7	117	7340058386181830	build.ninja	759232123138fdcc
 148	261	7335894916922344	LeaverExe.exe	695fd742e23c7dce
+1	440	7340059087077902	CMakeFiles/LeaverDynamicLibrary.dir/DynamicLeaver.cpp.obj	78585ccb503fea32
+440	610	7340059087077902	LeaverDynamicLibrary.dll	9cc6599d65b0ddcc
+440	610	7340059087077902	LeaverDynamicLibrary.lib	9cc6599d65b0ddcc
+6	751	7340059090163020	CMakeFiles/LeaverExe.dir/LeaverApp.cpp.obj	a8f03e46df88f085
+751	856	7340059090958091	LeaverExe.exe	695fd742e23c7dce
